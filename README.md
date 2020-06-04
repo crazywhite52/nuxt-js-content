@@ -1,6 +1,5 @@
 # Basic
 
-> Kong Ruksiam Studio Tutorial
 
 ## Build Setup
 
